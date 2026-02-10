@@ -42,29 +42,17 @@ I don't just write code that works—I write code that *keeps working*.
 
 ---
 
-## 🚀 Projects I'm Proud Of
+## 🚀 Currently Shipping
 
-### 🎓 [Student Management System](https://github.com/Tanu048/student-management-system-v2)
-**Full-stack REST API with production-grade architecture**
+- 🔐 **End-to-end encryption** — Files encrypted before storage
+- 👥 **Role-based permissions** — Admin/Editor/Viewer access levels
+- 🔑 **Secure key management** — No plaintext secrets anywhere
+- ⚡ **FastAPI backend** — Because performance matters
+- 🗄️ **PostgreSQL** — Storing metadata, not the encrypted files
 
-- Built with **FastAPI + PostgreSQL + SQLAlchemy**
-- Multi-layered clean architecture
-- 85%+ test coverage with pytest
-- Auto-generated OpenAPI docs
-- Handles 500+ requests/second
-- Docker-ready deployment
+**Tech Stack:**  
+`Python` `FastAPI` `PostgreSQL` `Cryptography` `SQLAlchemy` `JWT Auth` `Docker`
 
-> Real CRUD operations, real validation, real tests. Not a tutorial project—a production system.
-
-### 📝 [Student Feedback Form](https://github.com/Tanu048/feedback-form) | [Live Demo](https://radiant-narwhal-1889fb.netlify.app/)
-**Multi-step form with progress tracking**
-
-- Built with **vanilla JavaScript** (no frameworks)
-- Client-side validation & state management
-- Fully responsive design
-- Session-based duplicate prevention
-
-> Proof that I understand frontend fundamentals before reaching for React.
 
 ---
 
