@@ -2,19 +2,21 @@
 
 ### Backend Engineer building production-ready systems with Python 🚀
 
-I've evolved from learning Python fundamentals to **shipping real backend applications**. I build REST APIs, design database schemas, write tests that matter, and deploy containerized services. My code isn't just functional—it's maintainable, testable, and ready for production.
+Currently pursuing **M.Tech in Information Technology** @ IIPS, DAVV (2025–2029), with a focus on building practical backend applications. I work to design REST APIs, model clean database schemas, write meaningful tests, and deploy containerized services.
 
 ---
 
 ## 🎯 What I Actually Build
 
-🔹 **REST APIs** with FastAPI that handle 500+ req/s  
-🔹 **PostgreSQL databases** with proper schema design and migrations  
-🔹 **Tested code** with 85%+ coverage using pytest  
-🔹 **Docker containers** for reproducible deployments  
-🔹 **Clean architectures** with separated concerns (models → services → repositories → APIs)
+🔹 **REST APIs** with FastAPI
 
-I don't just write code that works—I write code that *keeps working*.
+🔹 **PostgreSQL databases** with proper schema design
+
+🔹 **Tested code** with 85%+ coverage using pytest  
+
+🔹 **Docker containers** for reproducible deployments 
+
+🔹 **Clean architectures** with separated concerns (models → services → repositories → APIs)
 
 ---
 
@@ -46,12 +48,13 @@ I don't just write code that works—I write code that *keeps working*.
 
 - 🔐 **End-to-end encryption** — Files encrypted before storage
 - 👥 **Role-based permissions** — Admin/Editor/Viewer access levels
-- 🔑 **Secure key management** — No plaintext secrets anywhere
 - ⚡ **FastAPI backend** — Because performance matters
 - 🗄️ **PostgreSQL** — Storing metadata, not the encrypted files
 
-**Tech Stack:**  
-`Python` `FastAPI` `PostgreSQL` `Cryptography` `SQLAlchemy` `JWT Auth` `Docker`
+  **Next on my list:**
+- Advanced PostgreSQL (indexing, query optimization, partitioning)
+- CI/CD pipelines with GitHub Actions
+- Message queues & async task processing
 
 
 ---
@@ -70,29 +73,6 @@ I don't just write code that works—I write code that *keeps working*.
 
 ---
 
-## 🎓 Currently Learning
-
-Pursuing **M.Tech in Information Technology** @ IIPS, DAVV (2025-2029)
-
-**Next on my list:**
-- Microservices architecture & API gateways
-- Advanced PostgreSQL (indexing, query optimization, partitioning)
-- Cloud deployment (AWS/GCP)
-- CI/CD pipelines with GitHub Actions
-- Message queues & async task processing
-
----
-
-## 💡 My Development Philosophy
-
-✅ **Test first, ship confident** — No "works on my machine" excuses  
-✅ **Explicit over implicit** — Code should communicate intent  
-✅ **Error handling matters** — Silent failures are bugs waiting to happen  
-✅ **Architecture scales** — Separation of concerns isn't optional  
-✅ **Documentation is code** — Auto-generated OpenAPI > outdated wikis
-
----
-
 ## 🌐 Let's Connect!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tanupatidar-portfolio.vercel.app/)
@@ -100,11 +80,7 @@ Pursuing **M.Tech in Information Technology** @ IIPS, DAVV (2025-2029)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanu.patidar.d@gmail.com)
 
 ---
+<div align="right">
 
-<div align="center">
-
-### 💬 "Learning correctly, not quickly. Building systems, not just code."
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Tanu048&icon=5&color=6)
-
+![Profile Views](https://komarev.com/ghpvc/?username=Tanu048&label=Profile%20views&color=0e75b6&style=flat)
 </div>
