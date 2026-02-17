@@ -35,21 +35,6 @@ Currently pursuing **M.Tech in Information Technology** @ IIPS, DAVV (2025–202
 
 ---
 
-## 🚀 Currently Shipping
-
-- 🔐 **End-to-end encryption** — Files encrypted before storage
-- 👥 **Role-based permissions** — Admin/Editor/Viewer access levels
-- ⚡ **FastAPI backend** — Because performance matters
-- 🗄️ **PostgreSQL** — Storing metadata, not the encrypted files
-
-  **Next on my list:**
-- Advanced PostgreSQL (indexing, query optimization, partitioning)
-- CI/CD pipelines with GitHub Actions
-- Message queues & async task processing
-
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
